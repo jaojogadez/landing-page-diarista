@@ -1,6 +1,9 @@
 # Disk Diarista E Passe Bem 🧹✨
 
-🔗 Acesse o projeto: [https://jaojogadez.github.io/sorteador/]
+![Projeto  - Disk Diarista](https://github.com/user-attachments/assets/562170ce-1034-45c9-be07-a5c827bf0dea)
+
+
+🔗 Acesse o projeto: [https://jaojogadez.github.io/landing-page-diarista/
 
 ## Descrição 📝
 
@@ -40,9 +43,9 @@ Este repositório contém a landing page do serviço **"Disk Diarista e Passe Be
 Basta abrir o arquivo `index.html` no navegador para visualizar a landing page. Navegue pelas seções utilizando o menu superior ou rolando a tela. 📜
 
 ## 🖼️ Imagens do Projeto
-![image](https://github.com/user-attachments/assets/fa1fc52b-054d-4b05-a6bf-463e7627cade)
-![image](https://github.com/user-attachments/assets/73b39e34-e309-4e87-b87d-17e7366ea695)
-![image](https://github.com/user-attachments/assets/d2580e8a-6d28-410c-ae2c-ab0d93ab9747)
+![image](https://github.com/user-attachments/assets/39505dc7-199f-48cd-a371-ea0186079ce7)
+![image](https://github.com/user-attachments/assets/4733929d-f0dc-45d1-bb29-75b9d5810225)
+
 
 ## Documentação da API ❌
 
